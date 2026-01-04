@@ -12,3 +12,11 @@ This repository collects impressive PyTorch models, examples, posts, and other r
 * [visionNoob/pytorch-darknet19](https://github.com/visionNoob/pytorch-darknet19) - Implementation of Darknet19.
 * [chris-tdy/darknet19](https://github.com/chris-tdy/darknet19) - Implementation of Darknet19.
 * [Rapternmn/pytorch-Tiny-Darknet](https://github.com/Rapternmn/pytorch-Tiny-Darknet) - Implementation of Tiny Darknet.
+
+### Perception
+
+* [jaswdr.dev - Perceptron](https://web.archive.org/web/20240926114706/https://jaswdr.dev/posts/perceptron/) - A post that explains how to implement Perceptron.
+
+### MLP
+
+* [codesignal.com - MLP for Wine](https://codesignal.com/learn/courses/modeling-the-wine-dataset-with-pytorch/lessons/building-a-multi-class-classification-model-with-pytorch) - A post that explains how to implement MLP for Wine dataset classification.
