@@ -13,7 +13,7 @@ This repository collects impressive PyTorch models, examples, posts, and other r
 * [chris-tdy/darknet19](https://github.com/chris-tdy/darknet19) - Implementation of Darknet19.
 * [Rapternmn/pytorch-Tiny-Darknet](https://github.com/Rapternmn/pytorch-Tiny-Darknet) - Implementation of Tiny Darknet.
 
-### Perception
+### Perceptron
 
 * [jaswdr.dev - Perceptron](https://web.archive.org/web/20240926114706/https://jaswdr.dev/posts/perceptron/) - A post that explains how to implement Perceptron.
 
